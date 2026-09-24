@@ -109,7 +109,7 @@ SkillSync includes a **Persistent Stakeholder Switcher Bar** pinned at the top o
 
 | Stakeholder Role | Name & Affiliation | Demo Email | Password |
 | :--- | :--- | :--- | :--- |
-| 🎓 **Student** | Swastik Sharma (AIIA CSE 3rd Year) | `student@skillsync.edu` | `password123` |
+| 🎓 **Student** | Swastik Singh (AIIA CSE 3rd Year) | `student@skillsync.edu` | `password123` |
 | 👨‍🏫 **Faculty** | Dr. Priya Nambiar (Assoc. Prof, AIIA) | `faculty@aiia.gov.in` | `password123` |
 | 🏢 **Industry** | Rajesh Menon (TCS Bio-IT & Life Sciences) | `recruiter@tcshealth.com` | `password123` |
 | 🏫 **Institution** | Dr. Vikram Malhotra (Dean of Academics, AIIA) | `dean@aiia.gov.in` | `password123` |
