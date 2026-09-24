@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Production builds
+.next/
+dist/
+build/
+
+# Environment and secrets (NEVER commit secrets)
+.env
+.env.*
+.env.local
+!.env.example
+!.env.*.example
+
+# Logs and runtime databases
+*.log
+*.sqlite
+*.sqlite-journal
+dev.db
+dev.db-journal
+
+# Testing & OS
+coverage/
+.DS_Store
+Thumbs.db
+

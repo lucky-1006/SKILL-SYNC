@@ -1,0 +1,28 @@
+{
+  "name": "skillsync-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SkillSync - Academia-Industry Collaboration Platform for Skill Mapping, Internships and Placement (SIH PS 26044)",
+  "workspaces": [
+    "shared",
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspaces --if-present",
+    "build": "npm run build --workspaces --if-present",
+    "seed": "npm run seed --workspace=backend",
+    "start:backend": "npm run start:dev --workspace=backend",
+    "start:frontend": "npm run dev --workspace=frontend"
+  },
+  "keywords": [
+    "sih",
+    "academia-industry",
+    "skill-mapping",
+    "internship-portal",
+    "placement",
+    "ai-matching"
+  ],
+  "author": "SkillSync Team",
+  "license": "MIT"
+}
